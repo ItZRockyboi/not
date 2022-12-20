@@ -1,0 +1,37 @@
+body{
+    background-color: cornflowerblue;
+    font-family: 'Rubik Vinyl', cursive;
+    color:darkgreen;
+}
+
+.header_div{
+    background:rebeccapurple ;
+    color:cornsilk ;
+}
+
+.header_div p{
+    color: rgb(255, 191, 191);
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button{
+    margin-top: 20px;
+    width: 130px;
+    color: blue;
+    letter-spacing: 2px;
+    
+}
+
+.copyrightfooter {
+    position: fixed;
+    color:white ;
+    bottom: 0;
+    width: 100%;
+    background-color:darkcyan;
+    text-align: center;
+    line-height: 3;
+    font-size: 15px;
+    font-weight: bold;
+}
